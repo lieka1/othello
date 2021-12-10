@@ -1,0 +1,2 @@
+CLS
+cargo run
